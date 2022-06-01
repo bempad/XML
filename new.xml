@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Personality>
+    <Full_name>
+        <Surname>Смородин</Surname>
+        <Name>Сергей</Name>
+        <Patronymic>Сергеевич</Patronymic>
+    </Full_name>
+    <Age>26</Age>
+    <Pet>
+        <Amount>0</Amount>
+    </Pet>
+    <Preferred_salary>100000</Preferred_salary>
+</Personality>
